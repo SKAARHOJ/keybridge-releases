@@ -1,7 +1,12 @@
-# KeyBridge Application
+# KeyBridgeV1 Application (LEGACY)
 
 All releases available at:
 [Releases](https://github.com/SKAARHOJ/keybridge-releases/releases)
+
+<br/>
+
+For BluePill and BluePill Inside controllers please check here: https://wiki.skaarhoj.com/books/device-core-articles/page/keybridge-v2-core-skaarhoj-keybridge
+
 
 <br/>
 
